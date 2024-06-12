@@ -1,10 +1,10 @@
 # 2025-New-Grad-Positions
 
 
-**The positions listed here are**
+The positions listed here meet **at least one** of the following criteria:
 
 1. Specifically open to 2025 new graduates
-2. Do not explicitly require professional software engineering experience or work experience in job qualifications .
+2. Do not explicitly require professional software engineering experience or work experience in job qualifications.
 
 If you are not a new graduate, you may want to explore [Entry-Level-Positions](https://github.com/Education-Victory/Entry-Level-Positions) repository specifically for entry-level positions.
 
