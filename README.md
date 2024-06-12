@@ -1,5 +1,16 @@
 # 2025-New-Grad-Positions
 
+
+**The positions listed here are**
+
+1. Specifically open to 2025 new graduates
+2. Do not explicitly require professional software engineering experience or work experience in job qualifications .
+
+If you are not a new graduate, you may want to explore [Entry-Level-Positions](https://github.com/Education-Victory/Entry-Level-Positions) repository specifically for entry-level positions.
+
+Feel free to submit issue or PR 😄
+
+
 | Company      | Role          | Location    |  Note                         | Updated Time   |
 |--------------|---------------|-------------|-------------------------------|----------------|
 | Amazon       | <ul><li>[Software Dev Engineer I, Redshift](https://amazon.jobs/zh/jobs/2636224/software-dev-engineer-i-redshift)</li><li>[Software Dev Engineer I, Redshift](https://amazon.jobs/zh/jobs/2649147/software-dev-engineer-i-redshift)</li></ul> | USA, Canada   |    | 2024-06-12     |
@@ -28,4 +39,3 @@
 | Waabi     | <ul><li>[Software Engineer](https://jobs.lever.co/waabi/9bcf52fc-482e-4404-8399-2a90d63c86f9)</li><li>[Security Engineer, Infrastructure](https://scale.com/careers/4430140005)</li><li>[Software Engineer, Web Tools](https://jobs.lever.co/waabi/19d19832-ab1c-4be5-8972-879f4fc2b1a8)</li></ul>   | Toronto, ON, San Francisco, CA, Remote Canada, Remote US | | 2024-06-12     |
 | Wayfair     | <ul><li>[Software Engineer I - Summer 2024](https://www.wayfair.com/careers/job/software-engineer-i---summer-----/6963112002)</li><li>[Associate Software Engineer, Storefront](https://www.wayfair.com/careers/job/associate-software-engineer--storefront/7479527002)</li></ul>   |  Austin, Texas, Boston, Massachusetts | | 2024-06-12     |
 | Whatnot     | <ul><li>[Software Engineer, Discovery (Search)](https://boards.greenhouse.io/whatnot/jobs/5154575004)</li><li>[Software Engineer, Ads](https://boards.greenhouse.io/whatnot/jobs/5131746004)</li></ul>   |  Multiple Locations | | 2024-06-12     |
-
