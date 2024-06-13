@@ -3,10 +3,36 @@
 
 --- 
 
-## Please explore [Entry-Level-Positions](https://github.com/Education-Victory/Entry-Level-Positions) repository specifically for entry-level positions.
+## Note
+
+Please explore [First-Job-Positions](https://github.com/Education-Victory/First-Job-Positions) repository specifically for positions does not explicitly require professional software engineering experience.
 
 
-| Company      | Role          | Location    |  Note                         |  Updated Time   |
-|--------------|---------------|-------------|-------------------------------|  ----------------|
+## Position List
+
+
+| Company      | Role          | Location    |  Note                         | Release/Update Time   |
+|--------------|---------------|-------------|-------------------------------|----------------|
+| Amazon       |  | USA, Canada   |   Not Open Yet  |      |
+| Anthropic       |  |  Multiple Locations   |  Not Open Yet   |      |
+| Apple       |  | Sunnyvale, California, Austin, Texas, Cupertino, California   |   Not Open Yet  |      |
+| Autodesk     |  | Multiple Locations |  Not Open Yet |      |
+| Chewy     |  | Boston, Massachusetts,   |  Not Open Yet  |      |
+| Databricks     |  | Mountain View, California |  Not Open Yet  |      |
+| DoorDash     |  | San Francisco, CA   |  Not Open Yet |     |
+| Fortinet     |  | Sunnyvale, CA   |  Not Open Yet  |     |
+| Headlands     |  | Multiple Locations   |  Not Open Yet  |      |
 | Meta       | <ul><li>[Security Engineer - Detect & Respond (University Grad)](https://www.metacareers.com/v2/jobs/2881237932018847/)</li><li>[Software Engineer, Systems ML - PyTorch Compiler / Performance (PhD)](https://www.metacareers.com/v2/jobs/2002504426814350/)</li></ul> | Menlo Park, CA |    | 2024-06-12     |
+| Microsoft   |  | Multiple Locations   |  Not Open Yet   |      |
+| OpenAI      | | Multiple Locations |  Not Open Yet   |      |
+| Oracle      |  | Multiple Locations |  Not Open Yet   |     |
+| Ramp        |    | New York, San Francisco, Remote, Miami  |   Not Open Yet  |     |
+| Rippling    |    |San Francisco, CA   |  Not Open Yet   |     |
+| Robinhood   |    |USA, Canada   |   Not Open Yet  |      |
+| Scale AI    |   | San Francisco, CA; New York, NY |  Not Open Yet |      |
 | TikTok     | <ul><li>[Machine Learning Engineer Graduate - 2025 Start (PhD)](https://careers.tiktok.com/position/7377874164580010267/detail)</li><li>[Machine Learning Engineer Graduate (Data-eCommerce) - 2025 Start (PhD)](https://careers.tiktok.com/position/7375226131165792521/detail)</li></ul> | Multiple Locations | | 2024-06-12 |
+| Uber        |    | Seattle, Washington, San Francisco, California, Sunnyvale, California |  Not Open Yet  |     |
+| Waabi       |    | Toronto, ON, San Francisco, CA, Remote Canada, Remote US |  Not Open Yet |      |
+| Wayfair     |    | Boston, Massachusetts |  Not Open Yet |      |
+| Whatnot     |    |  Multiple Locations | Not Open Yet |      |
+
