@@ -31,7 +31,7 @@ Please explore [First-Job-Positions](https://github.com/Education-Victory/First-
 | Robinhood   |    |USA, Canada   |   Not Open Yet  |      |
 | Scale AI    |   | San Francisco, CA; New York, NY |  Not Open Yet |      |
 | TikTok     | <ul><li>[Software Engineer (Applied Machine Learning - Enterprise) -2025 Start (PhD)](https://jobs.bytedance.com/en/position/7376809999254161714/detail?spread=BSPP2KS)</li><li>[Site Reliability Engineer Graduate (AML- Engine) - 2025 Start (PhD)](https://jobs.bytedance.com/en/position/7376405969578461449/detail?spread=BSPP2KS)</li><li>[Machine Learning Engineer Graduate - 2025 Start (PhD)](https://careers.tiktok.com/position/7377874164580010267/detail)</li><li>[Machine Learning Engineer Graduate (Data-eCommerce) - 2025 Start (PhD)](https://careers.tiktok.com/position/7375226131165792521/detail)</li></ul> | Multiple Locations | | 2024-06-16 |
-| Uber        |    | Seattle, Washington, San Francisco, California, Sunnyvale, California |  Not Open Yet  |     |
+| Uber        |     | Seattle, Washington, San Francisco, California, Sunnyvale, California |  Not Open Yet  |     |
 | Waabi       |    | Toronto, ON, San Francisco, CA, Remote Canada, Remote US |  Not Open Yet |      |
 | Wayfair     |    | Boston, Massachusetts |  Not Open Yet |      |
 | Whatnot     |    |  Multiple Locations | Not Open Yet |      |
