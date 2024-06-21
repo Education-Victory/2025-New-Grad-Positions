@@ -22,7 +22,7 @@ Please explore [First-Job-Positions](https://github.com/Education-Victory/First-
 | DoorDash     |  | San Francisco, CA   |  Not Open Yet |     |
 | Fortinet     |  | Sunnyvale, CA   |  Not Open Yet  |     |
 | Headlands     |  | Multiple Locations   |  Not Open Yet  |      |
-| Meta       | <ul><li>[Security Engineer - Detect & Respond (University Grad)](https://www.metacareers.com/v2/jobs/2881237932018847/)</li><li>[Software Engineer, Systems ML - PyTorch Compiler / Performance (PhD)](https://www.metacareers.com/v2/jobs/2002504426814350/)</li></ul> | Menlo Park, CA |    | 2024-06-12     |
+| Meta       | <ul><li>[Security Engineer - Detect & Respond (University Grad)](https://www.metacareers.com/v2/jobs/2881237932018847/)</li><li>[Software Engineer, Systems ML - PyTorch Compiler / Performance (PhD)](https://www.metacareers.com/v2/jobs/2002504426814350/)</li><li>[Software Engineer, Graphics (University Grad)](https://www.metacareers.com/jobs/901817458417014/)</li></ul> | Menlo Park, CA |    | 2024-06-21     |
 | Microsoft   |  | Multiple Locations   |  Not Open Yet   |      |
 | OpenAI      | | Multiple Locations |  Not Open Yet   |      |
 | Oracle      |  | Multiple Locations |  Not Open Yet   |     |
