@@ -13,6 +13,7 @@ Please explore [First-Job-Positions](https://github.com/Education-Victory/First-
 
 | Company      | Role          | Location    |  Note                         | Release/Update Time   |
 |--------------|---------------|-------------|-------------------------------|----------------|
+| Adobe       |  | USA, Canada   |   Not Open Yet  |      |
 | Amazon       |  | USA, Canada   |   Not Open Yet  |      |
 | Anthropic       |  |  Multiple Locations   |  Not Open Yet   |      |
 | Apple       |  | Sunnyvale, California, Austin, Texas, Cupertino, California   |   Not Open Yet  |      |
