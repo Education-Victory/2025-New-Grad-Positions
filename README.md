@@ -12,6 +12,8 @@ Please explore [First-Job-Positions](https://github.com/Education-Victory/First-
 
 | Company      | Role          | Location    |  Note                         | Release/Update Time   |
 |--------------|---------------|-------------|-------------------------------|----------------|
+| BECU         |  | Multiple Locations   |  Not Open Yet   |  2024-07-01    |
+| Reynolds and Reynolds       |  | Houston, TX   |  Not Open Yet   |  2024-07-01    |
 | T-Mobile       |  | Multiple Locations   |   Not Open Yet  |  2024-06-28    |
 | Redhat       |  | Multiple Locations   |   Not Open Yet  | 2024-06-28      |
 | Meta       | <ul><li>[Security Engineer - Detect & Respond (University Grad)](https://www.metacareers.com/v2/jobs/2881237932018847/)</li><li>[Software Engineer, Systems ML - PyTorch Compiler / Performance (PhD)](https://www.metacareers.com/v2/jobs/2002504426814350/)</li><li>[Software Engineer, Graphics (University Grad)](https://www.metacareers.com/jobs/901817458417014/)</li></ul> | Menlo Park, CA |    | 2024-06-21     |
