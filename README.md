@@ -12,6 +12,7 @@ Please explore [First-Job-Positions](https://github.com/Education-Victory/First-
 
 | Company      | Role          | Location    |  Note                         | Release/Update Time   |
 |--------------|---------------|-------------|-------------------------------|----------------|
+| Belay Technologies         |  | Multiple Locations   |  Not Open Yet   |  2024-07-03    |
 | BECU         |  | Multiple Locations   |  Not Open Yet   |  2024-07-01    |
 | Reynolds and Reynolds       |  | Houston, TX   |  Not Open Yet   |  2024-07-01    |
 | T-Mobile       |  | Multiple Locations   |   Not Open Yet  |  2024-06-28    |
