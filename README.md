@@ -12,6 +12,7 @@ Please explore [First-Job-Positions](https://github.com/Education-Victory/First-
 
 | Company      | Role          | Location    |  Note                         | Release/Update Time   |
 |--------------|---------------|-------------|-------------------------------|----------------|
+| Nvidia        |  |  Multiple Locations   |  Not Open Yet  | 2024-07-08     |
 | Mastercard        |  |  O Fallon, United States of America   |  Not Open Yet  | 2024-07-05     |
 | Belay Technologies         |  | Multiple Locations   |  Not Open Yet   |  2024-07-03    |
 | BECU         |  | Multiple Locations   |  Not Open Yet   |  2024-07-01    |
