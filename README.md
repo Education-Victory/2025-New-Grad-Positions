@@ -12,6 +12,7 @@ Please explore [First-Job-Positions](https://github.com/Education-Victory/First-
 
 | Company      | Role          | Location    |  Note                         | Release/Update Time   |
 |--------------|---------------|-------------|-------------------------------|----------------|
+| Akuna Capital        |<ul><li>[Software Engineer (Entry-Level) - C++](https://akunacapital.com/job-details?gh_jid=6066182)</li></ul>  |     |    | 2024-07-17     |
 | Google             |  | Multiple Locations | Not Open Yet   |   2024-07-15   |
 | Citadel        | [Software Engineer – 2025 University Graduate (US)](https://www.citadel.com/careers/details/software-engineer-2025-university-graduate-us/) |  Chicago, Miami, New York |  | 2024-07-11     |
 | Nvidia        |  |  Multiple Locations   |  Not Open Yet  | 2024-07-08     |
