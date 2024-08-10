@@ -12,6 +12,8 @@ Please explore [First-Job-Positions](https://github.com/Education-Victory/First-
 
 | Company      | Role          | Location    |  Note                         | Release/Update Time   |
 |--------------|---------------|-------------|-------------------------------|----------------|
+| Belvederetrading        |<ul><li>[Software Engineer - Entry Level 2025](https://jobs.lever.co/belvederetrading/f994033f-80f7-4f1d-afdf-a0ada8ed9a8b/)</li></ul>  |  Chicago, Illinois   |    | 2024-08-10     |
+| Roblox        |<ul><li>[[2025] Software Engineer - New Graduate](https://careers.roblox.com/jobs/6086753)</li></ul>  |  San Mateo, CA, United States   |    | 2024-08-10     |
 | Confluent        |<ul><li>[2025 Software Engineer](https://jobs.jobvite.com/confluent/job/orVbufwL/apply)</li></ul>  |  Austin, Texas   |    | 2024-08-06     |
 | Databricks        |<ul><li>[Software Engineer - New Grad (2025 Start)](https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2025-start-6865698002)</li></ul>  |  Mountain View, California   |    | 2024-08-06     |
 | Sentry        |<ul><li>[Software Engineer, New Grad (2025)](https://boards.greenhouse.io/sentry/jobs/6145165)</li></ul>  |     |    | 2024-08-02     |
