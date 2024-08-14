@@ -12,6 +12,7 @@ Please explore [First-Job-Positions](https://github.com/Education-Victory/First-
 
 | Company      | Role          | Location    |  Note                         | Release/Update Time   |
 |--------------|---------------|-------------|-------------------------------|----------------|
+| Optiver        |<ul><li>[Graduate Software Engineer (2025 Start - Chicago)](https://optiver.com/working-at-optiver/career-opportunities/7498615002/)</li></ul>  |  Chicago   |    | 2024-08-14     |
 | Codeium        |<ul><li>[Software Engineer (New Grad)](https://jobs.ashbyhq.com/codeium/cb10c443-7e5b-44ac-8b21-0edd60b22095)</li></ul>  |  Mountain View   |    | 2024-08-12     |
 | Belvederetrading        |<ul><li>[Software Engineer - Entry Level 2025](https://jobs.lever.co/belvederetrading/f994033f-80f7-4f1d-afdf-a0ada8ed9a8b/)</li></ul>  |  Chicago, Illinois   |    | 2024-08-10     |
 | Roblox        |<ul><li>[[2025] Software Engineer - New Graduate](https://careers.roblox.com/jobs/6086753)</li></ul>  |  San Mateo, CA, United States   |    | 2024-08-10     |
