@@ -12,6 +12,8 @@ Please explore [First-Job-Positions](https://github.com/Education-Victory/First-
 
 | Company      | Role          | Location    |  Note                         | Release/Update Time   |
 |--------------|---------------|-------------|-------------------------------|----------------|
+| Hudson River Trading        |<ul><li>[Software Engineer (C++) – 2025 Grads](https://boards.greenhouse.io/wehrtyou/jobs/6139130)</li></ul>  |  New York    |    | 2024-08-20     |
+| Figma        |<ul><li>[Software Engineer - Early Career (2025)](https://job-boards.greenhouse.io/figma/jobs/5227935004)</li></ul>  |  San Francisco, CA • New York, NY    |    | 2024-08-20     |
 | IXL Learning        |<ul><li>[Software Engineer, New Grad](https://www.ixl.com/company/careers?gh_jid=7535059002)</li></ul>  |  San Mateo, CA   |    | 2024-08-17     |
 | Navan        |<ul><li>[University Graduate - Software Engineer (Front-End)](https://navan.com/careers/openings/6139319)</li></ul>  |  Palo Alto, CA   |    | 2024-08-17     |
 | Optiver        |<ul><li>[Graduate Software Engineer (2025 Start - Chicago)](https://optiver.com/working-at-optiver/career-opportunities/7498615002/)</li></ul>  |  Chicago   |    | 2024-08-14     |
