@@ -12,6 +12,9 @@ Please explore [First-Job-Positions](https://github.com/Education-Victory/First-
 
 | Company      | Role          | Location    |  Note                         | Release/Update Time   |
 |--------------|---------------|-------------|-------------------------------|----------------|
+| Adobe        |<ul><li>[2025 University Graduate - Software Engineer](https://careers.adobe.com/us/en/job/ADOBUSR147864EXTERNALENUS/2025-University-Graduate-Software-Engineer)</li></ul>  |  New York    |    | 2024-08-24     |
+| Nextdoor        |<ul><li>[Software Engineer - New Grad 2025](https://wellfound.com/jobs/3082625-software-engineer-new-grad-2025)</li></ul>  |  San Francisco, CA    |    | 2024-08-24     |
+| The Trade Desk        |<ul><li>[Graduate Software Engineer (2025 Start), San Francisco](https://boards.greenhouse.io/thetradedesk/jobs/4480618007?utm_medium=jobboard)</li></ul>  |  San Francisco, CA    |    | 2024-08-24     |
 | Hudson River Trading        |<ul><li>[Software Engineer (C++) – 2025 Grads](https://boards.greenhouse.io/wehrtyou/jobs/6139130)</li></ul>  |  New York    |    | 2024-08-20     |
 | Figma        |<ul><li>[Software Engineer - Early Career (2025)](https://job-boards.greenhouse.io/figma/jobs/5227935004)</li></ul>  |  San Francisco, CA • New York, NY    |    | 2024-08-20     |
 | IXL Learning        |<ul><li>[Software Engineer, New Grad](https://www.ixl.com/company/careers?gh_jid=7535059002)</li></ul>  |  San Mateo, CA   |    | 2024-08-17     |
