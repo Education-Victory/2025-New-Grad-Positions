@@ -12,6 +12,7 @@ Please explore [First-Job-Positions](https://github.com/Education-Victory/First-
 
 | Company      | Role          | Location    |  Note                         | Release/Update Time   |
 |--------------|---------------|-------------|-------------------------------|----------------|
+| Applied Intuition        |<ul><li>[Software Engineer - New Grad](https://boards.greenhouse.io/appliedintuition/jobs/4420849005?gh_jid=4420849005)</li></ul>  |  Mountain View, California, United States    |    | 2024-08-26     |
 | Adobe        |<ul><li>[2025 University Graduate - Software Engineer](https://careers.adobe.com/us/en/job/ADOBUSR147864EXTERNALENUS/2025-University-Graduate-Software-Engineer)</li></ul>  |  New York    |    | 2024-08-24     |
 | Nextdoor        |<ul><li>[Software Engineer - New Grad 2025](https://wellfound.com/jobs/3082625-software-engineer-new-grad-2025)</li></ul>  |  San Francisco, CA    |    | 2024-08-24     |
 | The Trade Desk        |<ul><li>[Graduate Software Engineer (2025 Start), San Francisco](https://boards.greenhouse.io/thetradedesk/jobs/4480618007?utm_medium=jobboard)</li></ul>  |  San Francisco, CA    |    | 2024-08-24     |
