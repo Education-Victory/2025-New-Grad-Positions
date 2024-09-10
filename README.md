@@ -12,6 +12,7 @@ Please explore [First-Job-Positions](https://github.com/Education-Victory/First-
 
 | Company      | Role          | Location    |  Note                         | Release/Update Time   |
 |--------------|---------------|-------------|-------------------------------|----------------|
+| IBM |<ul><li>[Entry Level Back End Developer: 2025](https://careers.ibm.com/job/20864776/entry-level-back-end-developer-2025-remote/)</li></ul>  |  Multiple Locations     |    | 2024-09-10     |
 | Zip |<ul><li>[Software Engineer, New Grad (2025 Start)](https://job-boards.greenhouse.io/zip/jobs/5234060004)</li></ul>  |  San Francisco, CA    |    | 2024-09-02     |
 | Applied Intuition        |<ul><li>[Software Engineer - New Grad](https://boards.greenhouse.io/appliedintuition/jobs/4420849005?gh_jid=4420849005)</li></ul>  |  Mountain View, California, United States    |    | 2024-08-26     |
 | Adobe        |<ul><li>[2025 University Graduate - Software Engineer](https://careers.adobe.com/us/en/job/ADOBUSR147864EXTERNALENUS/2025-University-Graduate-Software-Engineer)</li></ul>  |  New York    |    | 2024-08-24     |
