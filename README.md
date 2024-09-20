@@ -12,6 +12,9 @@ Please explore [First-Job-Positions](https://github.com/Education-Victory/First-
 
 | Company      | Role          | Location    |  Note                         | Release/Update Time   |
 |--------------|---------------|-------------|-------------------------------|----------------|
+| IBM |<ul><li>[Entry Level Software Developer: 2025](https://careers.ibm.com/job/20962169/entry-level-software-developer-2025-remote/)</li></ul>  |  Multiple Locations     |    | 2024-09-20     |
+| Pinterest |<ul><li>[University Grad Software Engineer (USA)](https://www.pinterestcareers.com/jobs/6231229/university-grad-software-engineer-usa/)</li></ul>  |  Remote, United States of America     |    | 2024-09-20     |
+| Siemens |<ul><li>[Atlas Graduate Program: Software Developer (2025)](https://jobs.siemens.com/careers/job/563156120889600?hl=en&sourceType=PREMIUM_POST_SITE&domain=siemens.com)</li></ul>  |  Fremont, California, United States of America     |    | 2024-09-20     |
 | IBM |<ul><li>[Entry Level Back End Developer: 2025](https://careers.ibm.com/job/20864776/entry-level-back-end-developer-2025-remote/)</li></ul>  |  Multiple Locations     |    | 2024-09-10     |
 | Zip |<ul><li>[Software Engineer, New Grad (2025 Start)](https://job-boards.greenhouse.io/zip/jobs/5234060004)</li></ul>  |  San Francisco, CA    |    | 2024-09-02     |
 | Applied Intuition        |<ul><li>[Software Engineer - New Grad](https://boards.greenhouse.io/appliedintuition/jobs/4420849005?gh_jid=4420849005)</li></ul>  |  Mountain View, California, United States    |    | 2024-08-26     |
